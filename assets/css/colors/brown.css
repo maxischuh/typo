@@ -1,0 +1,7 @@
+.dark {
+    --content-primary: rgb(190, 255, 14);
+    --content-secondary: rgb(206, 187, 165);
+    --background: rgb(152, 137, 123);
+    --code-background: rgb(30, 30, 30);
+    --code-border: rgb(50, 50, 50);
+}

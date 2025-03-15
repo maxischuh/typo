@@ -82,7 +82,7 @@
     font-family: "IBM Plex Sans";
     font-style: normal;
     font-weight: bold;
-    src: url("/fonts/IBMPlex/IBMPlexSans-Bold.woff2") format("woff2");
+    src: url("/fonts/IBMPlex/IBMPlexSans-Medium.woff2") format("woff2");
     font-display: swap;
 }
 
@@ -90,6 +90,6 @@
     font-family: "IBM Plex Sans";
     font-style: italic;
     font-weight: bold;
-    src: url("/fonts/IBMPlex/IBMPlexSans-BoldItalic.woff2") format("woff2");
+    src: url("/fonts/IBMPlex/IBMPlexSans-MediumItalic.woff2") format("woff2");
     font-display: swap;
 }
